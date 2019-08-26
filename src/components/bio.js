@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Personal blog by <strong>{author}</strong>. I write about code and career tips that may be helpful to African developers.
+        Hi, I'm <strong>{author}</strong>. You can just call me Larry. I'm a software engineer. I sometimes write about code and career tips that may be helpful to African developers.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`} target='_blank'>
           Follow me on Twitter.
