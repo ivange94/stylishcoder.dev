@@ -80,7 +80,7 @@ Who is Larry?
 
 Larry is the author of this blog and also a software engineer. Larry likes giving conference talks and this single factor determines how he picks his projects :laughing:
 
-I pick a project with a large community around it because this increases the chances of having a lot of conferences around that project project or idea.
+I pick a project with a large community around it because this increases the chances of having a lot of conferences around that project or idea.
 
 
 
