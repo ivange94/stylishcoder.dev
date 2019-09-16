@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Hi, I'm <strong>{author}</strong>. You can just call me <strong>Larry or Stylishcoder</strong>. I'm a software engineer. I sometimes write about code and career tips that may be helpful to African developers.
+        Hi, I'm <strong>{author}</strong>. You can just call me <strong>Larry or Stylishcoder</strong>. I code, I talk and I write.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           Follow me on Twitter.
