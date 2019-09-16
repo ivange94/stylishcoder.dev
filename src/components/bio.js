@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Hi, I'm <strong>{author}</strong>. Known as <strong>Larry</strong> or <strong>Stylishcoder</strong>. I code, I talk and I write.
+        Hi, I'm <strong>{author}</strong>. Known as <strong>Larry</strong> or <strong>Stylishcoder</strong>. <br/>I code, I talk and I write.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           Follow me on Twitter.
